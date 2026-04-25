@@ -135,7 +135,7 @@ docker-compose up --build -d
 | **Transparency** | Apache 2.0 open source - fully auditable |
 | **Usability** | Technical barrier: Docker + Ollama setup required |
 | **Cost** | Free (open source). API costs apply only for optional cloud features |
-| **Copilot limitation** | Skipper requires strong LLM - broken with free local models |
+| **Copilot limitation** | Skipper requires strong LLM - limited with smaller local models |
 
 ### Verdict
 Strongest privacy posture. Successfully installed and running on Windows. Setup requires Docker and Ollama - not suitable for non-technical users without guidance. Copilot feature requires paid LLM to work well.
@@ -228,6 +228,8 @@ No product available. Revisit when public beta launches.
 | Compliance certs | **Littlebird** |
 
 **Recommended tool: Rowboat** - for its local-first architecture, open-source transparency, and full Windows support with no paid API key required.
+
+> This evaluation prioritizes privacy and data ownership over convenience when recommending tools for professional use.
 
 ---
 
