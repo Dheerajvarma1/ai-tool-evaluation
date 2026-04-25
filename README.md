@@ -2,7 +2,7 @@
 **Date:** April 25, 2026
 **Evaluator:** Dheeraj Varma Subburi
 **Method:** Live hands-on testing + screenshot evidence
-**Platform:** Windows 11 (no Mac available - see instructor note)
+**Platform:** Windows 11 
 
 ---
 
@@ -120,12 +120,14 @@ docker-compose up --build -d
 
 **Known limitation discovered:** The AI copilot ("Skipper") does not work well with smaller local models like llama3.1. It requires a capable model (GPT-4, Claude) to reliably interpret build instructions. This reintroduces cloud dependency for the copilot feature specifically.
 
+**Failure as insight:** Setup challenges encountered during this evaluation - including Docker Desktop needing manual startup and WSL/Linux engine configuration on Windows - highlight real-world usability barriers that non-technical users would face. These friction points are themselves valid evaluation findings, not just obstacles.
+
 ### Findings
 
 | Field | Detail |
 |---|---|
 | **Setup result** | Successfully running via Docker + Ollama on Windows |
-| **Architecture** | Local-first - all data stored as Markdown in `~/.rowboat/` |
+| **Architecture** | Local-first - based on documentation and observed behavior, data is stored locally in a Markdown-based structure (Obsidian-compatible vault) |
 | **Privacy** | Strongest of three - air-gap possible with local LLM |
 | **Transparency** | Apache 2.0 open source - fully auditable |
 | **Usability** | Technical barrier: Docker + Ollama setup required |
