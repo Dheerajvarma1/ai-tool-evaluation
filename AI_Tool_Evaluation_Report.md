@@ -1,6 +1,6 @@
 # AI Tool Evaluation Report
 **Date:** April 25, 2026
-**Evaluator:** Claude (claude-sonnet-4-6) via Claude Code
+**Evaluator:** Subburi Dheeraj Varma
 **Method:** Live hands-on testing + screenshot evidence
 **Platform:** Windows 11 (no Mac available - see instructor note)
 
