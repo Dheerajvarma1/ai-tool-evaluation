@@ -139,7 +139,7 @@ Strongest privacy posture. Successfully installed and running on Windows. Setup 
 
 ## PHASE 3 - ENGRAMME
 
-### Screenshot 9 - Homepage
+### Screenshot 10 - Homepage
 ![Engramme Homepage](screenshots/engramme_actual.png)
 **Observation:** Clean, minimal design. Headline: "Remember everything." Tagline: "Omniscient AI to augment human cognition." The only two actions available are "Sign up for beta" and "Watch video." No product download, no login, no feature list. Navigation links (News, Research, Careers, About Us) confirm this is a company website, not a product page.
 
@@ -157,7 +157,7 @@ Strongest privacy posture. Successfully installed and running on Windows. Setup 
 | **Privacy** | Unknown - no product to evaluate |
 
 ### Verdict
-Cannot be evaluated as a functional tool. Scientifically credible team but no product exists. Revisit in 12–18 months.
+Cannot be evaluated as a functional tool. Scientifically credible team but no product exists. Revisit in 12-18 months.
 
 ---
 
