@@ -78,7 +78,7 @@ Easy to use but cloud-mandatory by design. The Windows beta status meant full in
 ---
 
 ### Screenshot 7 - Official Download Page
-![Rowboat Downloads](screenshots/rowboat_downloads.png)
+![Rowboat Downloads](screenshots/rowboat_downloads_new.png)
 **Observation:** Official website shows "Download for Windows (x64)" - confirming stable Windows support, unlike Littlebird which remains in beta on Windows.
 
 ---
