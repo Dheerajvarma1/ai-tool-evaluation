@@ -1,7 +1,10 @@
 # AI Tool Evaluation Report
 **Date:** April 25, 2026
+
 **Evaluator:** Subburi Dheeraj Varma
+
 **Method:** Live hands-on testing + screenshot evidence
+
 **Platform:** Windows 11 (no Mac available - see instructor note)
 
 ---
